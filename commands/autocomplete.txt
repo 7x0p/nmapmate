@@ -1,0 +1,13 @@
+search
+use
+show
+set
+run
+exit
+help
+option
+port
+target
+module
+script
+unset
